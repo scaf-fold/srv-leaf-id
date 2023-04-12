@@ -26,7 +26,7 @@ var StartTime time.Time
 func Config(conf *string) {
 	validPath := ""
 	if conf == nil {
-		validPath = "local.yaml"
+		validPath = "../conf/local.yaml"
 		_, err := os.Stat(validPath)
 		if err != nil {
 			panic(err)

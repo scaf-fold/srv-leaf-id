@@ -1,0 +1,9 @@
+dubbo:
+  protocols:
+    triple:
+      name: tri
+      port: 20000
+  provider:
+    services:
+      IdGenerator:
+        interface: "" # read from pb
