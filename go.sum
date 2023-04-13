@@ -752,7 +752,7 @@ github.com/ryanuber/columnize v0.0.0-20160712163229-9b3edd62028f/go.mod h1:sm1tb
 github.com/ryanuber/columnize v2.1.0+incompatible/go.mod h1:sm1tb6uqfes/u+d4ooFouqFdy9/2g9QGwK3SQygK0Ts=
 github.com/ryanuber/go-glob v1.0.0/go.mod h1:807d1WSdnB0XRJzKNil9Om6lcp/3a0v4qIHxIXzX/Yc=
 github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da/go.mod h1:gi+0XIa01GRL2eRQVjQkKGqKF3SF9vZR/HnPullcV2E=
-github.com/scaf-fold/common v0.0.8 h1:DdTxk4/7YMGnS5tBD4iM2KNpIq3ydM3QpitdMRL56tI=
+github.com/scaf-fold/common v0.0.8 h1:2VjUfFXs5TRZ6kT/zuKob1SLjiuOjscKUx3D7APK2Fg=
 github.com/scaf-fold/common v0.0.8/go.mod h1:+XegH9er49rn+1FLKVystxtAyLXtHrLuTiM7U4Xw5zk=
 github.com/scaf-fold/tools v0.0.2 h1:hMRAgLudiP1MLyMg14NozC0EZ5mfdbfTYIS9fUlJlOU=
 github.com/scaf-fold/tools v0.0.2/go.mod h1:DVjFPqwHSbX4wkD7r3nEyVZhTWxVeoDh+eHzyA7+6Zc=
